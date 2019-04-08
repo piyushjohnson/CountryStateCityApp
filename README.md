@@ -18,7 +18,7 @@ Add CCSApi dependency to app module build.gradle
 
 ```
 dependencies {
-	        implementation 'com.github.piyushjohnson:CCS:d4d86b13cf'
+	        implementation 'com.github.piyushjohnson:CCS:724f99e466'
 }
 ```
 
